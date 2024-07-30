@@ -28,7 +28,7 @@ int main ()
 
     cout<<"Size of name: "<<sizeof(g)<<endl;
 }
-
+//OUTPUT
 /*Enter the value of int d: 456
 D = 456
 Size of integer:4
